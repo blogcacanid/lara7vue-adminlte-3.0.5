@@ -25,7 +25,9 @@ https://cacan.id/integrasi-adminlte-3-0-5-dengan-laravel-7-dan-vue
 
 ## Testing
 Jalankan laravel dengan menggunakan perintah berikut:
+
 	- php artisan serve
+	
 
 Lalu buka browser dan ketikkan URL http://localhost:8000
 
